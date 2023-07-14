@@ -1,0 +1,1 @@
+Enter the Dna profile of the being you want to check, in the Sequence folder
